@@ -25,6 +25,9 @@
 | [Bundle Pro (Makeathon 2025)](https://github.com/georgeflour/makeathon) | Full-stack AI web app for an ATCOM S.A. challenge, recommending product bundles. Presented to the company and at the UniAI: Students 4 Students conference | Next.js, Flask, Azure OpenAI |
 | Portfolio Advisor | AI portfolio advisor with live access to holdings, pie performance, and dividend data through a custom Trading212 MCP connector | Claude API, MCP, Trading212 API |
 | [Movies BI (DMST, AUEB)](https://github.com/gregalexan/movies-bi) | End-to-end Business Intelligence solution on large-scale movie datasets, using a star schema, ETL, clustering and association rules, visualized in Power BI | Star Schema, ETL, Power BI, Data Mining |
+| [Doughnut Economics Analysis (Applied ML, AUEB)](https://github.com/gregalexan/aml-assignments) | Analysis of global sustainability indicators across 193 countries (24 ecological and social datasets, 2000-2022), with clustering and multi-dimensional visualization | Python, Pandas, Plotly, Altair, scikit-learn |
+| [Age & Gender Distortion Analysis (Applied ML, AUEB)](https://github.com/gregalexan/aml-assignments) | Statistical analysis and regression modeling of demographic data, with correlation analysis and interactive visualizations | Python, Statsmodels, Pingouin, SciPy, Plotly |
+| [Choices13k Human Decision Prediction (Applied ML, AUEB)](https://github.com/gregalexan/aml-assignments) | Predictive modeling of human risky choice on 13,006 gamble problems, comparing classical ML and neural network models | Python, scikit-learn, XGBoost, TensorFlow, Keras |
 | [Cartel](https://github.com/gregalexan/Cartel_B2B_Eshop) | B2B e-shop with full order management, product browsing, and supplier-side tracking, later extended with search functionality in C# and ASP.NET Core MVC | JSP, 3-tier architecture, C#, ASP.NET Core |
 | [Big Blue Hotel](https://bigbluehotel.gr) | Professional website for a boutique hotel, built with Next.js and later expanded in WordPress, with ongoing SEO and Google Ads | Next.js, WordPress, SEO, Google Ads |
 | [Docker Monitoring with Java](https://github.com/gregalexan/MavenDocker-NullProject) | Java-based Docker cluster monitoring application, built as team leader, which earned a perfect grade | Java, Maven, Docker |
@@ -65,6 +68,15 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
+### Machine Learning & Statistics
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat)
+![Pingouin](https://img.shields.io/badge/Pingouin-3776AB?style=flat)
+
 ### Data & Databases
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -83,6 +95,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat)
+![Altair](https://img.shields.io/badge/Altair-1F77B4?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### Cloud & Platforms
