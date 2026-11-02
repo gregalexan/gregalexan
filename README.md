@@ -44,6 +44,9 @@
 
 ## Featured Projects
 
+<details>
+<summary>Show projects</summary>
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | [AI Call Center Analytics Assistant (Makeathon 2026, 1st Place)](https://github.com/georgeflour/makeathon-2026) | Full-stack assistant that lets call center teams explore their data in natural language. Generates SQL queries, charts, and insights, with streaming responses, customizable chart widgets, a personal dashboard, and scheduled email reports | Next.js, FastAPI, Azure AI Foundry |
@@ -62,7 +65,12 @@
 | [Big Blue Hotel](https://bigbluehotel.gr) | Professional website for a boutique hotel, built with Next.js and later expanded in WordPress, with ongoing SEO and Google Ads | Next.js, WordPress, SEO, Google Ads |
 | [Docker Monitoring with Java](https://github.com/gregalexan/MavenDocker-NullProject) | Java-based Docker cluster monitoring application, built as team leader, which earned a perfect grade | Java, Maven, Docker |
 
+</details>
+
 ## Tech Stack
+
+<details>
+<summary>Show tech stack</summary>
 
 ### Languages
 
@@ -141,3 +149,5 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white)
+
+</details>
