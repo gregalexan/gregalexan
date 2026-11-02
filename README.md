@@ -34,6 +34,7 @@
 
 | Role | Organization | Period |
 |------|--------------|--------|
+| **Co-Founder** | solonas.ai (pre-launch) | Present |
 | **Investment Analyst** (Internship) | Uni.Fund, Athens | Mar 2026 - May 2026 |
 | **Teaching Assistant** | Management Science and Technology, AUEB | Sep 2025 - Mar 2026 |
 | **Software Engineer** | ATCOM S.A., Athens | Sep 2025 - Dec 2025 |
