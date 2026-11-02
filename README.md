@@ -58,6 +58,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+### Web & Marketing
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-34A853?style=flat)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat&logo=googlesearchconsole&logoColor=white)
+
 ### AI & Automation
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -119,9 +126,15 @@
 |--------|-------------|-------|--------|
 | **BSc** in Management Science and Technology (Software Technologies & Data Analysis track) | Athens University of Economics and Business (AUEB) | 8.83/10 | Sep 2022 - Jun 2026 |
 
+## Publications
+
+- **A Multi-Agent Orchestration Framework for Venture Capital Due Diligence.** Grigorios Alexandrou and Katerina Pramatari. arXiv:2605.13110, May 2026. [Paper](https://arxiv.org/abs/2605.13110) | [LaTeX source](https://github.com/gregalexan/ai-researcher-latex)
+- **Citation Cliques in Low Impact Journals.** arXiv:2605.11930, 2026. [Paper](https://arxiv.org/abs/2605.11930v1)
+
 ## Achievements
 
 - 1st place, Makeathon 2026
+- Audience Choice Best Paper Award, DMST Conference 2026, for "A Multi-Agent Orchestration Framework for Venture Capital Due Diligence"
 
 ## Certifications & Languages
 
