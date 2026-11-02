@@ -10,6 +10,38 @@
 - **Data:** Data science, applied machine learning, business intelligence
 - **Finance & Startups:** Venture capital and startup evaluation, investing and portfolio analysis
 
+## Professional Experience
+
+| Role | Organization | Period |
+|------|--------------|--------|
+| **Investment Analyst** (Internship) | Uni.Fund, Athens | Mar 2026 - May 2026 |
+| **Teaching Assistant** | Management Science and Technology, AUEB | Sep 2025 - Mar 2026 |
+| **Software Engineer** | ATCOM S.A., Athens | Sep 2025 - Dec 2025 |
+| **Researcher** | Business Analytics Lab (BALab), AUEB | Feb 2025 - Present |
+| **Data Analyst** | Alpha Terra Capital, Athens | Nov 2024 - Jun 2025 |
+
+## Publications
+
+- **A Multi-Agent Orchestration Framework for Venture Capital Due Diligence.** Grigorios Alexandrou and Katerina Pramatari. arXiv:2605.13110, May 2026. [Paper](https://arxiv.org/abs/2605.13110) | [LaTeX source](https://github.com/gregalexan/ai-researcher-latex)
+- **Citation Cliques in Low Impact Journals.** arXiv:2605.11930, 2026. [Paper](https://arxiv.org/abs/2605.11930v1)
+
+## Education
+
+| Degree | Institution | Grade | Period |
+|--------|-------------|-------|--------|
+| **BSc** in Management Science and Technology (Software Technologies & Data Analysis track) | Athens University of Economics and Business (AUEB) | 8.83/10 | Sep 2022 - Jun 2026 |
+
+## Achievements
+
+- 1st place, Makeathon 2026
+- Audience Choice Best Paper Award, DMST Conference 2026, for "A Multi-Agent Orchestration Framework for Venture Capital Due Diligence"
+
+## Certifications & Languages
+
+**Certifications:** Insurance Agent (Bank of Greece, Oct 2026), Microsoft AI Product Manager, Salesforce Certified Administrator, Microsoft Certified: Azure AI Fundamentals, Career Essentials in Generative AI (Microsoft and LinkedIn), Programming with JavaScript (Meta)
+
+**Languages:** Greek (Native), English (Advanced)
+
 ## Featured Projects
 
 | Project | Description | Tech |
@@ -29,16 +61,6 @@
 | [Cartel](https://github.com/gregalexan/Cartel_B2B_Eshop) | B2B e-shop with full order management, product browsing, and supplier-side tracking, later extended with search functionality in C# and ASP.NET Core MVC | JSP, 3-tier architecture, C#, ASP.NET Core |
 | [Big Blue Hotel](https://bigbluehotel.gr) | Professional website for a boutique hotel, built with Next.js and later expanded in WordPress, with ongoing SEO and Google Ads | Next.js, WordPress, SEO, Google Ads |
 | [Docker Monitoring with Java](https://github.com/gregalexan/MavenDocker-NullProject) | Java-based Docker cluster monitoring application, built as team leader, which earned a perfect grade | Java, Maven, Docker |
-
-## Professional Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| **Investment Analyst** (Internship) | Uni.Fund, Athens | Mar 2026 - May 2026 |
-| **Teaching Assistant** | Management Science and Technology, AUEB | Sep 2025 - Mar 2026 |
-| **Software Engineer** | ATCOM S.A., Athens | Sep 2025 - Dec 2025 |
-| **Researcher** | Business Analytics Lab (BALab), AUEB | Feb 2025 - Present |
-| **Data Analyst** | Alpha Terra Capital, Athens | Nov 2024 - Jun 2025 |
 
 ## Tech Stack
 
@@ -119,25 +141,3 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnu&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white)
-
-## Education
-
-| Degree | Institution | Grade | Period |
-|--------|-------------|-------|--------|
-| **BSc** in Management Science and Technology (Software Technologies & Data Analysis track) | Athens University of Economics and Business (AUEB) | 8.83/10 | Sep 2022 - Jun 2026 |
-
-## Publications
-
-- **A Multi-Agent Orchestration Framework for Venture Capital Due Diligence.** Grigorios Alexandrou and Katerina Pramatari. arXiv:2605.13110, May 2026. [Paper](https://arxiv.org/abs/2605.13110) | [LaTeX source](https://github.com/gregalexan/ai-researcher-latex)
-- **Citation Cliques in Low Impact Journals.** arXiv:2605.11930, 2026. [Paper](https://arxiv.org/abs/2605.11930v1)
-
-## Achievements
-
-- 1st place, Makeathon 2026
-- Audience Choice Best Paper Award, DMST Conference 2026, for "A Multi-Agent Orchestration Framework for Venture Capital Due Diligence"
-
-## Certifications & Languages
-
-**Certifications:** Insurance Agent (Bank of Greece, Oct 2026), Microsoft AI Product Manager, Salesforce Certified Administrator, Microsoft Certified: Azure AI Fundamentals, Career Essentials in Generative AI (Microsoft and LinkedIn), Programming with JavaScript (Meta)
-
-**Languages:** Greek (Native), English (Advanced)
