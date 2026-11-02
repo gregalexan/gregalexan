@@ -6,11 +6,11 @@
 
 ## Interests
 
-- AI Integration & Agentic Workflows
-- LLM Applications (LangChain, LangGraph, n8n)
-- Data Analysis & Anomaly Detection
-- Bibliometrics & Citation Network Analysis
-- Venture Capital & Startups
+- Full-stack AI Applications
+- Data Science
+- Hackathons
+- Investing and Portfolio Analysis
+- Multi-agent Systems for VC and Startup Evaluation
 
 ## Featured Projects
 
