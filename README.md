@@ -6,11 +6,9 @@
 
 ## Interests
 
-- Full-stack AI Applications
-- Data Science
-- Hackathons
-- Investing and Portfolio Analysis
-- Multi-agent Systems for VC and Startup Evaluation
+- **AI & Software:** Full-stack AI applications, multi-agent systems, workflow automation
+- **Data:** Data science, applied machine learning, business intelligence
+- **Finance & Startups:** Venture capital and startup evaluation, investing and portfolio analysis
 
 ## Featured Projects
 
