@@ -1,4 +1,4 @@
-# Grigoris Alexandrou
+# Gregory Alexandrou
 
 [![GitHub](https://img.shields.io/badge/GitHub-gregalexan-181717?logo=github)](https://github.com/gregalexan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grigorios--alexandrou-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grigorios-alexandrou/)
@@ -79,6 +79,7 @@
 
 ### Visualization
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
