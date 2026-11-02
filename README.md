@@ -16,17 +16,17 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| AI Call Center Analytics Assistant (Makeathon 2026, 1st Place) | Full-stack assistant that lets call center teams explore their data in natural language. Generates SQL queries, charts, and insights, with streaming responses, customizable chart widgets, a personal dashboard, and scheduled email reports | Next.js, FastAPI, Azure AI Foundry |
-| Billing Assistant (AI Hackathon 2026) | Full-stack AI assistant automating electricity bill analysis and customer support. OCR, SQL, and RAG pipeline extracts bill details, with voice interaction and data verification tools | Next.js, FastAPI, Azure, OCR, RAG |
+| [AI Call Center Analytics Assistant (Makeathon 2026, 1st Place)](https://github.com/georgeflour/makeathon-2026) | Full-stack assistant that lets call center teams explore their data in natural language. Generates SQL queries, charts, and insights, with streaming responses, customizable chart widgets, a personal dashboard, and scheduled email reports | Next.js, FastAPI, Azure AI Foundry |
+| [Billing Assistant (AI Hackathon 2026)](https://github.com/georgeflour/Hackathon) | Full-stack AI assistant automating electricity bill analysis and customer support. OCR, SQL, and RAG pipeline extracts bill details, with voice interaction and data verification tools | Next.js, FastAPI, Azure, OCR, RAG |
 | [Citation Cliques in Low Impact Journals](https://arxiv.org/abs/2605.11930v1) | Co-authored paper detecting coordinated citation manipulation. Isolation Forest pipeline flagged 9,431 author pairs, with outliers showing citation rates 6.7x higher than controls | Python, Isolation Forest, Graph features, Crossref |
 | AI Agents Workflow (AUEB & Uni.Fund) | AI agent orchestration and workflow automation analyzing real-time funding data for Uni.Fund portfolio companies with GPT-4 and Perplexity, delivered automatically by email | n8n, JavaScript, GPT-4, Perplexity |
-| LawChecker (Prototypes For Humanity) | AI legal assistant giving guidance based on official sources, with automated references for each response | GPT-4o, LangChain, Python |
-| Bundle Pro (Makeathon 2025) | Full-stack AI web app for an ATCOM S.A. challenge, recommending product bundles. Presented to the company and at the UniAI: Students 4 Students conference | Next.js, Flask, Azure OpenAI |
+| [LawChecker (Prototypes For Humanity)](https://github.com/gregalexan/prototypesforhumanity) | AI legal assistant giving guidance based on official sources, with automated references for each response | GPT-4o, LangChain, Python |
+| [Bundle Pro (Makeathon 2025)](https://github.com/georgeflour/makeathon) | Full-stack AI web app for an ATCOM S.A. challenge, recommending product bundles. Presented to the company and at the UniAI: Students 4 Students conference | Next.js, Flask, Azure OpenAI |
 | Portfolio Advisor | AI portfolio advisor with live access to holdings, pie performance, and dividend data through a custom Trading212 MCP connector | Claude API, MCP, Trading212 API |
-| Movies BI (DMST, AUEB) | End-to-end Business Intelligence solution on large-scale movie datasets, using a star schema, ETL, clustering and association rules, visualized in Power BI | Star Schema, ETL, Power BI, Data Mining |
-| Cartel | B2B e-shop with full order management, product browsing, and supplier-side tracking, later extended with search functionality in C# and ASP.NET Core MVC | JSP, 3-tier architecture, C#, ASP.NET Core |
+| [Movies BI (DMST, AUEB)](https://github.com/gregalexan/movies-bi) | End-to-end Business Intelligence solution on large-scale movie datasets, using a star schema, ETL, clustering and association rules, visualized in Power BI | Star Schema, ETL, Power BI, Data Mining |
+| [Cartel](https://github.com/gregalexan/Cartel_B2B_Eshop) | B2B e-shop with full order management, product browsing, and supplier-side tracking, later extended with search functionality in C# and ASP.NET Core MVC | JSP, 3-tier architecture, C#, ASP.NET Core |
 | [Big Blue Hotel](https://bigbluehotel.gr) | Professional website for a boutique hotel, built with Next.js and later expanded in WordPress, with ongoing SEO and Google Ads | Next.js, WordPress, SEO, Google Ads |
-| Docker Monitoring with Java | Java-based Docker cluster monitoring application, built as team leader, which earned a perfect grade | Java, Maven, Docker |
+| [Docker Monitoring with Java](https://github.com/gregalexan/MavenDocker-NullProject) | Java-based Docker cluster monitoring application, built as team leader, which earned a perfect grade | Java, Maven, Docker |
 
 ## Professional Experience
 
