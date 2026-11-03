@@ -36,7 +36,7 @@
 - 1st place, Makeathon 2026
 - Audience Choice Best Paper Award, DMST Conference 2026, for "A Multi-Agent Orchestration Framework for Venture Capital Due Diligence"
 
-## Certifications & Languages
+## Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
@@ -46,7 +46,10 @@
 | Career Essentials in Generative AI | Microsoft and LinkedIn | 2024 |
 | Programming with JavaScript | Meta | 2024 |
 
-**Languages:** Greek (Native), English (Advanced)
+## Languages
+
+- Greek (Native)
+- English (Advanced)
 
 ## Featured Projects
 
