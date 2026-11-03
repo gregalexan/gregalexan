@@ -38,13 +38,9 @@
 
 ## Certifications
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| Microsoft AI Product Manager | Microsoft | 2025 |
-| Salesforce Certified Administrator | Salesforce | 2025 |
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | 2024 |
-| Career Essentials in Generative AI | Microsoft and LinkedIn | 2024 |
-| Programming with JavaScript | Meta | 2024 |
+- **Microsoft:** AI Product Manager, Azure AI Fundamentals, Career Essentials in Generative AI (with LinkedIn)
+- **Salesforce:** Certified Administrator
+- **Meta:** Programming with JavaScript
 
 ## Languages
 
