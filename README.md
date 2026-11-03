@@ -23,7 +23,7 @@
 ## Publications
 
 - **A Multi-Agent Orchestration Framework for Venture Capital Due Diligence.** Grigorios Alexandrou and Katerina Pramatari. arXiv:2605.13110, May 2026. [Paper](https://arxiv.org/abs/2605.13110) | [LaTeX source](https://github.com/gregalexan/ai-researcher-latex)
-- **Citation Cliques in Low Impact Journals.** arXiv:2605.11930, 2026. [Paper](https://arxiv.org/abs/2605.11930v1)
+- **Citation Cliques in Low Impact Journals.** arXiv:2605.11930, 2026. [Paper](https://arxiv.org/abs/2605.11930v1) | [LaTeX source](https://github.com/gregalexan/citation-cliques-latex)
 
 ## Education
 
