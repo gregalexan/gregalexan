@@ -38,7 +38,7 @@
 
 ## Certifications & Languages
 
-**Certifications:** Insurance Agent (Bank of Greece, Oct 2026), Microsoft AI Product Manager, Salesforce Certified Administrator, Microsoft Certified: Azure AI Fundamentals, Career Essentials in Generative AI (Microsoft and LinkedIn), Programming with JavaScript (Meta)
+**Certifications:** Microsoft AI Product Manager, Salesforce Certified Administrator, Microsoft Certified: Azure AI Fundamentals, Career Essentials in Generative AI (Microsoft and LinkedIn), Programming with JavaScript (Meta)
 
 **Languages:** Greek (Native), English (Advanced)
 
