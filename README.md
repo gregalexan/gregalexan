@@ -49,7 +49,7 @@
 
 ## Featured Projects
 
-<details>
+<details open>
 <summary>Show projects</summary>
 
 | Project | Description | Tech |
