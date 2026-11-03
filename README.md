@@ -38,7 +38,7 @@
 
 ## Certifications
 
-- **Microsoft:** AI Product Manager, Azure AI Fundamentals, Career Essentials in Generative AI (with LinkedIn)
+- **Microsoft:** AI Product Manager, Azure AI Fundamentals, Career Essentials in Generative AI
 - **Salesforce:** Certified Administrator
 - **Meta:** Programming with JavaScript
 
