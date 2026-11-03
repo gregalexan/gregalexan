@@ -1,4 +1,4 @@
-# Gregory Alexandrou
+# Grigoris Alexandrou
 
 [![GitHub](https://img.shields.io/badge/GitHub-gregalexan-181717?logo=github)](https://github.com/gregalexan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grigorios--alexandrou-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grigorios-alexandrou/)
