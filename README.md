@@ -14,7 +14,7 @@
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| **Investment Analyst** (Internship) | Uni.Fund, Athens | Mar 2026 - May 2026 |
+| **Investment Analyst (AI Automation)**, Internship | Uni.Fund, Athens | Mar 2026 - May 2026 |
 | **Teaching Assistant** | Management Science and Technology, AUEB | Sep 2025 - Mar 2026 |
 | **Software Engineer** | ATCOM S.A., Athens | Sep 2025 - Dec 2025 |
 | **Researcher** | Business Analytics Lab (BALab), AUEB | Feb 2025 - Present |
