@@ -18,7 +18,7 @@
 | **Teaching Assistant** | Management Science and Technology, AUEB | Sep 2025 - Mar 2026 |
 | **Software Engineer** | ATCOM S.A., Athens | Sep 2025 - Dec 2025 |
 | **Researcher** | Business Analytics Lab (BALab), AUEB | Feb 2025 - Present |
-| **Data Analyst** | Alpha Terra Capital, Athens | Nov 2024 - Jun 2025 |
+| **Software Engineer** | Alpha Terra Capital, Athens | Nov 2024 - Jun 2025 |
 
 ## Publications
 
